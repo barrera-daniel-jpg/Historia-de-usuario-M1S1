@@ -28,5 +28,3 @@ def run(): #Funcion encargada de ejecutar todas las funciones anteriores
 
     inicio() #Llama dicha funcion para ejecutarse
     productos() #Llama dicha funcion para ejecutarse
-
-run() #Ejecuta la funcion nombrada para iniciar el programa.
